@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Modsx</h1>
-<h3 align="center">A Android developer from Brasil</h3>
+<h3 align="center">Android developer</h3>
 
 <p align="left">
 </p>
